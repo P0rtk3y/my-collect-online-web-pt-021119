@@ -10,5 +10,3 @@ def my_collect(array)
   end 
   new_array 
 end 
-
-my_collect(array[i]){|name| name.split(" ").first}
